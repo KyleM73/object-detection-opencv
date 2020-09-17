@@ -102,4 +102,4 @@ for i in indices:
     
 cv2.imwrite("object-detection.jpg", image)
 #cv2.destroyAllWindows()
-return image
+
